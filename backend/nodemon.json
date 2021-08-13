@@ -1,0 +1,5 @@
+{
+  "verbose": true,
+  "watch": [".", "../client/build"],
+  "ext": "html,js,jsx,css,json"
+}
